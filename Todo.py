@@ -9,4 +9,7 @@ print(Todolist)
 
 print(type(Todolist))
 
+print("Length of the task1:", len(Task1))
+print("Length of the task2:", len(Task2))
+print("Length of the task3:", len(Task3))
 
