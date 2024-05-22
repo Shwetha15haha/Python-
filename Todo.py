@@ -3,10 +3,10 @@ prompt = "Enter to do:"
 Task1 = input(prompt)
 Task2 = input(prompt)
 Task3 = input(prompt)
-print(Task1)
-print(Task2)
-print(Task3)
 
+Todolist = [Task1, Task2, Task3]
+print(Todolist)
 
+print(type(Todolist))
 
 
